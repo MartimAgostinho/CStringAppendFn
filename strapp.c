@@ -2,6 +2,9 @@
 #include <stdarg.h>
 #include <string.h>
 
+
+//str needs to have enough memory allocated
+//args have to end with a 0
 void strapp(char *str,...){
     
     va_list args;
