@@ -1,1 +1,1 @@
-# Function to append strings on strings
+# Usefull functions in C lang
